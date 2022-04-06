@@ -1,0 +1,5 @@
+{
+  "imports": {
+    "@adafruit/littlefs-pure-js": "./@adafruit/littlefs-pure-js.js"
+  }
+}
